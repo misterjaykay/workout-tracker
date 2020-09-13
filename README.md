@@ -6,7 +6,7 @@
 ---
 
   ## Description
-  > This app allows user to store what kind of burger user wants to eat, and update when eaten, delete when user wants.
+  > This app allows user to store everyday user's workouts and prints out the piecharts of users total workout for each day.
 
 ---
   ## Getting Started
